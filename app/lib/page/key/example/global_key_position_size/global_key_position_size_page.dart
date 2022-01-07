@@ -1,5 +1,4 @@
 import 'package:app/common/base_page.dart';
-import 'package:app/common/base_page.dart';
 import 'package:app/page/key/example/global_key_position_size/view_model/global_key_position_size_page_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
