@@ -7,7 +7,7 @@
 | key                  | Key                | [查看](Key.md)             |
 | alignment            | AlignmentGeometry  | [查看](AlignmentGeometry.) |
 | padding              | EdgeInsetsGeometry | [查看](EdgeInsetsGeometry) |
-| color                | coloColor          |                            |
+| color                | Color              | [查看](Color.md)           |
 | decoration           | Decoration         |                            |
 | foregroundDecoration | Decoration         |                            |
 | constraints          | BoxConstraints     |                            |
